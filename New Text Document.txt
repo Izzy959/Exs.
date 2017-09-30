@@ -1,2 +1,7 @@
 Content...
+
 Conflict..
+
+Something else..
+Made a change...
+
